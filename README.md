@@ -38,7 +38,7 @@ SO THAT I can assess whether they're a good candidate for an open position
   - Downloadable resume link
   - List of proficiencies
 - Footer:
-  - Links/icons to GitHub, LinkedIn, and a third platform (e.g., Stack Overflow or Twitter)
+  - Links/icons to GitHub, LinkedIn, and Stack Overflow 
 
 ---
 
@@ -53,44 +53,12 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ---
 
-## 📁 File Structure
-
-```plaintext
-chase-portfolio/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   │   ├── profile.jpg
-│   │   └── projects/
-│   │       ├── project1.png
-│   │       ├── project2.png
-│   │       └── ...
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── AboutMe.jsx
-│   │   ├── Portfolio.jsx
-│   │   ├── Contact.jsx
-│   │   └── Resume.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│   └── App.css
-├── .gitignore
-├── README.md
-├── package.json
-└── vite.config.js
-```
-
----
 
 ## 🌐 Deployment
 
 This portfolio has been deployed to **Netlify** and can be accessed at:
 
-🔗 **Live Site:** [https://your-netlify-site.netlify.app]([https://your-netlify-site.netlify.app](https://chase-jefferson-portfilio.netlify.app/))
+🔗 **Live Site:** [https://your-netlify-site.netlify.app]((https://chase-jefferson-portfilio.netlify.app/))
 
 To deploy your own:
 
