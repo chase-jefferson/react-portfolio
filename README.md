@@ -58,7 +58,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 This portfolio has been deployed to **Netlify** and can be accessed at:
 
-🔗 **Live Site:** [https://your-netlify-site.netlify.app]((https://chase-jefferson-portfilio.netlify.app/))
+🔗 **Live Site:** ((https://chase-jefferson-portfilio.netlify.app/))
 
 To deploy your own:
 
