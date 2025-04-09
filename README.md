@@ -72,13 +72,10 @@ npm run build
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot of Deployed App
 
-_Add screenshots here by uploading them to the `assets/` folder or embedding hosted image URLs:_
 
-| About Me | Portfolio | Contact | Resume |
-|----------|-----------|---------|--------|
-| ![About](src/assets/screenshots/about.png) | ![Portfolio](src/assets/screenshots/portfolio.png) | ![Contact](src/assets/screenshots/contact.png) | ![Resume](src/assets/screenshots/resume.png) |
+<img width="1220" alt="Screenshot 2025-04-08 at 8 13 32 PM" src="https://github.com/user-attachments/assets/6d3c0a07-b9c4-4018-a904-911b64b0b18a" />
 
 ---
 
